@@ -1,0 +1,81 @@
+{
+    "sources": [
+        {
+            "url": "https:\/\/adaway.org\/hosts.txt",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/hosts-file.net\/ad_servers.txt",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/malwaredomainlist.com\/hostslist\/hosts.txt",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/pgl.yoyo.org\/adservers\/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/raw.githubusercontent.com\/StevenBlack\/hosts\/master\/hosts",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/raw.githubusercontent.com\/jerryn70\/GoodbyeAds\/master\/Hosts\/GoodbyeAds.txt",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/someonewhocares.org\/hosts\/zero\/hosts",
+            "enabled": true
+        },
+        {
+            "url": "https:\/\/www.hosts-file.net\/download\/hosts.txt",
+            "enabled": true
+        }
+    ],
+    "blocked": [
+        {
+            "host": "8live.com",
+            "enabled": true
+        },
+        {
+            "host": "fire88.com",
+            "enabled": true
+        },
+        {
+            "host": "m.8live.com",
+            "enabled": true
+        },
+        {
+            "host": "m.fire88.com",
+            "enabled": true
+        },
+        {
+            "host": "nhatvip.net",
+            "enabled": true
+        },
+        {
+            "host": "v8.club",
+            "enabled": true
+        }
+    ],
+    "allowed": [
+        {
+            "host": "adf.ly",
+            "enabled": true
+        },
+        {
+            "host": "graph.facebook.com",
+            "enabled": true
+        },
+        {
+            "host": "larati.net",
+            "enabled": true
+        },
+        {
+            "host": "ouo.io",
+            "enabled": true
+        }
+    ],
+    "redirected": []
+}
